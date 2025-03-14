@@ -2,7 +2,8 @@
 
 <p> ♾️  Aluno da Escola Estadual Maurício Freire </p>
 <p> 🧑‍💻 Estudando do projeto jovem potiguar e cursando programador web </p>
-<p>  Atleta de Basquete </p>
+<p> 🏀🏆🏅Atleta de Basquete </p> 
+<p> 🎬🖥📱 Cursei web design </p>
 
 
 <h2> Linguagens </h2>
